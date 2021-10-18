@@ -36,18 +36,17 @@ const AboutUs = () => {
             <h1 className="my-3">Our Doctors:</h1>
 
             <Row lg={3} className="g-4">
-          <Col className="card">
+          <Col>
             <Card >
-              <Card.Img className="about-img" variant="top" src="https://i0.wp.com/thesefootballtimes.co/wp-content/uploads/2018/11/heynckes.jpg?fit=2702%2C1900&ssl=1" />
+              <Card.Img className="about-img" variant="top" src="https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05133450/Dr-William.png" />
               <Card.Body>
-                <Card.Title><h3>Jupp Heynckes</h3></Card.Title>
+                <Card.Title><h3>Dr. William A. Abdu, M.D, M.S.</h3></Card.Title>
                 <Card.Text>
-                  Former Manager of Bayern Munich
+                Dr. Abdu is an Associate Professor of Orthopedics and of The Dartmouth Institute Medical Director at Dartmouth-Hitchcock Medical Center
                 </Card.Text>
                 <Card.Text>
-                  <p className="fw-bold">More than 30 Years Working Experience on being a coach or manager</p>
 
-                  <p className="fw-bold">Josef "Jupp" Heynckes (German: [ˈjʊp ˈhaɪnkəs]; born 9 May 1945) is a German retired professional footballer and manager. As manager, Heynckes won four Bundesliga titles with Bayern Munich and two UEFA Champions Leagues</p>
+                  <p className="fw-bold">Dr. Abdu got his accreditation in 1985 from Tufts University. He is a pioneer in the study and treatment of spine-related conditions. He hones surgery of the Spine, including Cervical, Thoracic and Lumbar Disorders, Disk Herniation, Spinal Stenosis, Spondylolisthesis, Spondylotic Myelopathy, Spinal Cord Injury, and Spine Trauma. Also, he had discovered many new techniques for spine treatment.</p>
 
                 </Card.Text>
               </Card.Body>
@@ -55,112 +54,75 @@ const AboutUs = () => {
           </Col>
           <Col>
             <Card>
-              <Card.Img className="about-img" variant="top" src="https://pbs.twimg.com/media/DN77TLVWsAAixRY.jpg" />
+              <Card.Img className="about-img" variant="top" src="https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05133850/Dr.-Myles.-B.-Abbot.png" />
               <Card.Body>
-                <Card.Title> <h3>Sir Alex Ferguson</h3> </Card.Title>
+                <Card.Title> <h3>Dr. Myles. B. Abbott, M.D.</h3> </Card.Title>
                 <Card.Text>
-                Former Manager of Bayern Munich
+                Dr. Myles is also one of the best-known doctors of Pediatricians in the world
                 </Card.Text>
                 <Card.Text>
-                <p className="fw-bold">More than 30 Years Working Experience on being a coach or manager</p>
 
-                <p className="fw-bold">Sir Alexander Chapman Ferguson CBE (born 31 December 1941) is a Scottish former football manager and player, known for managing Manchester United from 1986 to 2013. He is widely regarded as the greatest football manager of all time, and has won more trophies than any other manager in the history of football.</p>
+                <p className="fw-bold">He graduated from the University of Miami Leonard M Miller School of Medicine in 1972. He treats the problems of growth and child development. Dr. Myles currently practices at East Bay Pediatric & Medical Group and is affiliated with Alta Bates Summit Medical Center Alta Bates Campus and Children’s Hospital & Research Center Oakland.</p>
                 </Card.Text>
               </Card.Body>
             </Card>
           </Col>
           <Col>
             <Card>
-              <Card.Img className="about-img" variant="top" src="https://editorial.uefa.com/resources/0253-0d7ff863fed8-25e68db7d090-1000/format/wide1/1504452.jpg?imwidth=158%20158w" />
+              <Card.Img className="about-img" variant="top" src="https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05042830/Fouad-Abbas.jpg" />
               <Card.Body>
-                <Card.Title> <h3>Vincent Del Bosque</h3> </Card.Title>
+                <Card.Title> <h3>Dr. Fouad. M. Abbas, M.D.</h3> </Card.Title>
                 <Card.Text>
-                Former Coach of Spain National Team
+                Dr. Abbas is a well-known Gynecologist/Oncologist.
                 </Card.Text>
                 <Card.Text>
-                  <p className="fw-bold">More than 30 Years Working Experience on being a coach or manager</p>
 
-                <p className="fw-bold">Vicente del Bosque González, 1st Marquess of Del Bosque (Spanish born 23 December 1950) is a Spanish retired football manager and former player. He is regarded as one of the greatest managers of all time[1] and is to date the only football manager to have won the World Cup, the Champions League, the European Championship and the Intercontinental Cup.</p>
+                <p className="fw-bold">His specialization field is Oncologist of Obstetrician and Gynecology. He is also considered to be one of the best doctors of Oncology in the world. The term Oncology is the study of cancer. Dr. Abbas graduated from the University of Maryland School of Medicine in 1986. Currently, he is affiliated with Medstar Harbor Hospital and Sinai Hospital Of Baltimore.</p>
                 </Card.Text>
               </Card.Body>
             </Card>
           </Col>
           <Col>
             <Card>
-              <Card.Img className="about-img" variant="top" src="https://www.pixelstalk.net/wp-content/uploads/2015/01/Arsene-Wenger-wallpaper-arsenal-manager.jpg" />
+              <Card.Img className="about-img" variant="top" src="https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05133453/Dr.-Khalid.png" />
               <Card.Body>
-                <Card.Title> <h3>Arsene Wenger</h3> </Card.Title>
+                <Card.Title> <h3>Dr. Khalid Abbed, M.D.</h3> </Card.Title>
                 <Card.Text>
-                  Arsenal Legendary Former Manager
+                Dr. Khalid is a famous doctor of Neuro.
                 </Card.Text>
                 <Card.Text>
-                  <p className="fw-bold">More than 30 Years Working Experience on being a coach or manager</p>
 
-                <p className="fw-bold">Arsène Charles Ernest Wenger OBE (born 22 October 1949) is a French former football manager and player who is currently serving as FIFA's Chief of Global Football Development. He was the manager of Arsenal from 1996 to 2018, where he was the longest-serving and most successful in the club's history..</p>
+                <p className="fw-bold">Dr. Khalid obtained his bachelor’s degree in Biological Sciences from the University of Illinois in Champaign-Urbana in 1993. He continued his education in the same University and received his Doctor of Medicine degree with Honors in 1999. Currently, he is working at Yale as a Director of the Spine Surgery Department. Many consider him the best doctor in the world.</p>
                 </Card.Text>
               </Card.Body>
             </Card>
           </Col>
           <Col>
             <Card>
-              <Card.Img className="about-img" variant="top" src="https://www.thesun.co.uk/wp-content/uploads/2017/12/nintchdbpict000003942133.jpg" />
+              <Card.Img className="about-img" variant="top" src="https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05042826/DR.-MONA-M.-ABAZA.jpg" />
               <Card.Body>
-                <Card.Title> <h3>Marcello Lippi</h3> </Card.Title>
+                <Card.Title> <h3>Dr.Mona.M.Abaza, M.D.</h3> </Card.Title>
                 <Card.Text>
-                  2006 Italy World Cup Winning Manager
+                Dr. Abaza is a specialized doctor in ENT Otolaryngologist, Adenoidectomy, esophagoscopy, Nasal airway surgery, and tracheostomy.
                 </Card.Text>
                 <Card.Text>
-                  <p className="fw-bold">More than 30 Years Working Experience on being a coach or manager</p>
 
-                <p className="fw-bold">Marcello Romeo Lippi (born 12 April 1948) is an Italian former professional football player and manager. He served as Italy national football team head coach from 16 July 2004 to 12 July 2006 and led Italy to win the 2006 FIFA World Cup.</p>
+                <p className="fw-bold">Dr. Abaza graduated from the Medical College of Pennsylvania in 1991. She is affiliated with Children’s Hospital Colorado At Memorial Hospital Central and the University of Colorado Hospital.</p>
                 </Card.Text>
               </Card.Body>
             </Card>
           </Col>
           <Col>
             <Card>
-              <Card.Img className="about-img" variant="top" src="https://www.acmilaninfo.com/wp-content/uploads/2017/06/eeee-3.jpg" />
+              <Card.Img className="about-img" variant="top" src="https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05042820/Dr.-A.-Reese-Abright.png" />
               <Card.Body>
-                <Card.Title> <h3>Arrigo Sacchi</h3> </Card.Title>
+                <Card.Title> <h3>Dr. Arthur Reese Abright, M.D.</h3> </Card.Title>
                 <Card.Text>
-                  Former Manager of Milan and Juventus
+                Dr. Reese is also one of the best doctors of Psychiatry.
                 </Card.Text>
                 <Card.Text>
-                  <p className="fw-bold">More than 30 Years Working Experience on being a coach or manager</p>
 
-                <p className="fw-bold">Arrigo Sacchi (born 1 April 1946) is an Italian former professional football coach. He was twice manager of Milan (1987–1991, 1996–1997), with great success. He won the Serie A title in his 1987–88 debut season.</p>
-                </Card.Text>
-              </Card.Body>
-            </Card>
-          </Col>
-          <Col>
-            <Card>
-              <Card.Img className="about-img" variant="top" src="https://media.gettyimages.com/photos/real-madrid-head-coach-fabio-capello-poses-with-the-liga-trophy-at-picture-id75707972?s=612x612" />
-              <Card.Body>
-                <Card.Title> <h3>Fabio Capello</h3> </Card.Title>
-                <Card.Text>
-                Former Manager of Real Madrid
-                </Card.Text>
-                <Card.Text>
-                  <p className="fw-bold">More than 30 Years Working Experience on being a coach or manager</p>
-
-                    <p className="fw-bold">Fabio Capello ( born 18 June 1946) is an Italian former professional football manager and player.  He won the Coppa Italia with Roma in 1969, though he was most successful with Juventus, winning three Serie A titles in 1972, 1973 and 1975. With Milan.</p>
-                </Card.Text>
-              </Card.Body>
-            </Card>
-          </Col>
-          <Col>
-            <Card>
-              <Card.Img className="about-img" variant="top" src="https://c8.alamy.com/comp/2D5MWFK/manchester-united-manager-louis-van-gaal-lifts-the-emirates-fa-cup-trophy-2D5MWFK.jpg" />
-              <Card.Body>
-                <Card.Title> <h3>Louis van Gaal</h3> </Card.Title>
-                <Card.Text>
-                  Former Netherland and Manchester United Manager
-                </Card.Text>
-                <Card.Text>
-                   <p className="fw-bold">More than 30 Years Working Experience on being a coach or manager</p>
-
-                    <p className="fw-bold">Aloysius Paulus Maria "Louis" van Gaal OON (born 8 August 1951) is a Dutch football manager and former player who is the current head coach of the Netherlands national team. At club level, he served as manager of Ajax, Barcelona, AZ Alkmaar, Bayern Munich and Manchester United.</p>
+                    <p className="fw-bold">Dr. Reese got her accreditation from The University of Texas Southwestern Medical School. She is also an expert on mood disorders and anxiety. Currently, she is working as a Professor of Psychiatry at Icahn School of Medicine at Mount Sinai. She is also affiliated with Mount Sinai Services Elmhurst Hospital Center and New York Medical College at present.</p>
                 </Card.Text>
               </Card.Body>
             </Card>

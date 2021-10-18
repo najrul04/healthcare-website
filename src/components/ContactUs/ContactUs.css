@@ -1,0 +1,12 @@
+
+
+ .contact-us{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   width: 100%;
+   margin: 200px 0;
+   }
+   .contact{
+       margin:  0 auto;
+   }
