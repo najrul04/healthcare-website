@@ -37,16 +37,13 @@ const AboutUs = () => {
 
             <Row lg={3} className="g-4">
           <Col>
-            <Card >
+            <Card>
               <Card.Img className="about-img" variant="top" src="https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05133450/Dr-William.png" />
               <Card.Body>
-                <Card.Title><h3>Dr. William A. Abdu, M.D, M.S.</h3></Card.Title>
-                <Card.Text>
-                Dr. Abdu is an Associate Professor of Orthopedics and of The Dartmouth Institute Medical Director at Dartmouth-Hitchcock Medical Center
-                </Card.Text>
+                <Card.Title><h4>Dr. William A. Abdu, M.D, M.S.</h4></Card.Title>
                 <Card.Text>
 
-                  <p className="fw-bold">Dr. Abdu got his accreditation in 1985 from Tufts University. He is a pioneer in the study and treatment of spine-related conditions. He hones surgery of the Spine, including Cervical, Thoracic and Lumbar Disorders, Disk Herniation, Spinal Stenosis, Spondylolisthesis, Spondylotic Myelopathy, Spinal Cord Injury, and Spine Trauma. Also, he had discovered many new techniques for spine treatment.</p>
+                  <p className="fw-bold"> Dr. Abdu is an Associate Professor of Orthopedics and of The Dartmouth Institute Medical Director at Dartmouth-Hitchcock Medical Center. Dr. Abdu got his accreditation in 1985 from Tufts University.</p>
 
                 </Card.Text>
               </Card.Body>
@@ -58,11 +55,8 @@ const AboutUs = () => {
               <Card.Body>
                 <Card.Title> <h3>Dr. Myles. B. Abbott, M.D.</h3> </Card.Title>
                 <Card.Text>
-                Dr. Myles is also one of the best-known doctors of Pediatricians in the world
-                </Card.Text>
-                <Card.Text>
 
-                <p className="fw-bold">He graduated from the University of Miami Leonard M Miller School of Medicine in 1972. He treats the problems of growth and child development. Dr. Myles currently practices at East Bay Pediatric & Medical Group and is affiliated with Alta Bates Summit Medical Center Alta Bates Campus and Children’s Hospital & Research Center Oakland.</p>
+                <p className="fw-bold mt-4">Dr. Myles is also one of the best-known doctors of Pediatricians in the worldHe graduated from the University of Miami Leonard M Miller School of Medicine in 1972.</p>
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -73,11 +67,8 @@ const AboutUs = () => {
               <Card.Body>
                 <Card.Title> <h3>Dr. Fouad. M. Abbas, M.D.</h3> </Card.Title>
                 <Card.Text>
-                Dr. Abbas is a well-known Gynecologist/Oncologist.
-                </Card.Text>
-                <Card.Text>
 
-                <p className="fw-bold">His specialization field is Oncologist of Obstetrician and Gynecology. He is also considered to be one of the best doctors of Oncology in the world. The term Oncology is the study of cancer. Dr. Abbas graduated from the University of Maryland School of Medicine in 1986. Currently, he is affiliated with Medstar Harbor Hospital and Sinai Hospital Of Baltimore.</p>
+                <p className="fw-bold">Dr. Abbas is a well-known Gynecologist/Oncologist.His specialization field is Oncologist of Obstetrician and Gynecology. He is also considered to be one of the best doctors of Oncology in the world.</p>
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -88,11 +79,7 @@ const AboutUs = () => {
               <Card.Body>
                 <Card.Title> <h3>Dr. Khalid Abbed, M.D.</h3> </Card.Title>
                 <Card.Text>
-                Dr. Khalid is a famous doctor of Neuro.
-                </Card.Text>
-                <Card.Text>
-
-                <p className="fw-bold">Dr. Khalid obtained his bachelor’s degree in Biological Sciences from the University of Illinois in Champaign-Urbana in 1993. He continued his education in the same University and received his Doctor of Medicine degree with Honors in 1999. Currently, he is working at Yale as a Director of the Spine Surgery Department. Many consider him the best doctor in the world.</p>
+                <p className="fw-bold">Dr. Khalid is a famous doctor of Neuro. Dr. Khalid obtained his bachelor’s degree in Biological Sciences from the University of Illinois in Champaign-Urbana in 1993.</p>
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -103,11 +90,8 @@ const AboutUs = () => {
               <Card.Body>
                 <Card.Title> <h3>Dr.Mona.M.Abaza, M.D.</h3> </Card.Title>
                 <Card.Text>
-                Dr. Abaza is a specialized doctor in ENT Otolaryngologist, Adenoidectomy, esophagoscopy, Nasal airway surgery, and tracheostomy.
-                </Card.Text>
-                <Card.Text>
 
-                <p className="fw-bold">Dr. Abaza graduated from the Medical College of Pennsylvania in 1991. She is affiliated with Children’s Hospital Colorado At Memorial Hospital Central and the University of Colorado Hospital.</p>
+                <p className="fw-bold">Dr. Abaza is a specialized doctor in ENT Otolaryngologist, Adenoidectomy, esophagoscopy, Nasal airway surgery, and tracheostomy.</p>
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -118,11 +102,8 @@ const AboutUs = () => {
               <Card.Body>
                 <Card.Title> <h3>Dr. Arthur Reese Abright, M.D.</h3> </Card.Title>
                 <Card.Text>
-                Dr. Reese is also one of the best doctors of Psychiatry.
-                </Card.Text>
-                <Card.Text>
 
-                    <p className="fw-bold">Dr. Reese got her accreditation from The University of Texas Southwestern Medical School. She is also an expert on mood disorders and anxiety. Currently, she is working as a Professor of Psychiatry at Icahn School of Medicine at Mount Sinai. She is also affiliated with Mount Sinai Services Elmhurst Hospital Center and New York Medical College at present.</p>
+                <p className="fw-bold">Dr. Reese is also one of the best doctors of Psychiatry.</p>
                 </Card.Text>
               </Card.Body>
             </Card>
