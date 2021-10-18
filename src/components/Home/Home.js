@@ -39,7 +39,7 @@ const Home = () => {
         <h1 className="mb-4 text-primary">First 4 Units</h1>
         <Row xs={1} md={2} lg={4} sm={1} className="g-4">
           {doctor.slice(0,4).map((doctorItems) => (
-            <Doctors music={doctorItems} key={doctorItems.id}></Doctors>
+            <Doctors doctor={doctorItems} key={doctorItems.id}></Doctors>
           ))}
         </Row>
       </Container>

@@ -23,7 +23,7 @@ function App() {
       <Home></Home>
 
       </Route>
-      
+
       <Route exact path='/home'>
 
       <Home></Home>
