@@ -11,29 +11,29 @@ const Footer = () => {
       <div className="row py-4">
         <div className="col-lg-4 col-md-6 mb-4 mb-lg-0"><img src="img/logo.png" alt="" width="180" className="mb-3"/>
         <h4 className="my-3 text-white">About Us</h4>
-          <p className="font-italic  text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+          <p className="font-italic  text-white">Our main goal is to provide the best treatment in the reasonable cost. Every life in the world is valuable and our goal is to make sure you get the right treatment and a possible best life in future.</p>
         </div>
         <div className="col-lg-2 col-md-6 mb-4 mb-lg-0">
-          <h6 className="text-uppercase font-weight-bold mb-4 text-white">Shop</h6>
+          <h6 className="text-uppercase font-weight-bold mb-4 text-white">Treatment</h6>
           <ul className="list-unstyled mb-0">
             <li className="mb-2"><a href="#" className="text-decoration-none text-white">For Women</a></li>
             <li className="mb-2"><a href="#" className="text-decoration-none text-white">For Men</a></li>
-            <li className="mb-2"><a href="#" className="text-decoration-none text-white">Stores</a></li>
+            <li className="mb-2"><a href="#" className="text-decoration-none text-white">Emergency</a></li>
             <li className="mb-2"><a href="#" className="text-decoration-none text-white">Our Blog</a></li>
           </ul>
         </div>
         <div className="col-lg-2 col-md-6 mb-4 mb-lg-0">
-          <h6 className="text-uppercase font-weight-bold mb-4 text-white">Company</h6>
+          <h6 className="text-uppercase font-weight-bold mb-4 text-white">Hospital</h6>
           <ul className="list-unstyled mb-0">
             <li className="mb-2"><a href="#" className="text-decoration-none text-white">Login</a></li>
             <li className="mb-2"><a href="#" className="text-decoration-none text-white">Register</a></li>
-            <li className="mb-2"><a href="#" className="text-decoration-none text-white">Wishlist</a></li>
-            <li className="mb-2"><a href="#" className="text-decoration-none text-white">Our Products</a></li>
+            <li className="mb-2"><a href="#" className="text-decoration-none text-white">Serial Numbers</a></li>
+            <li className="mb-2"><a href="#" className="text-decoration-none text-white">Our Services</a></li>
           </ul>
         </div>
         <div className="col-lg-4 col-md-6 mb-lg-0">
           <h6 className="text-uppercase font-weight-bold mb-4 text-white">Newsletter</h6>
-          <p className=" text-white mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At itaque temporibus.</p>
+          <p className=" text-white mb-4">Take your healthcare content to new heights with our exclusive and very well experienced and educated doctors from here.</p>
          
         </div>
       </div>

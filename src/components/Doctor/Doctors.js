@@ -9,15 +9,15 @@ const Doctor = (props) => {
         <div>
             <Col>
             <Card className="card shadow-lg">
-    <Card.Img variant="top" src={img}  className="card-img"/>
-    <Card.Body>
-      <Card.Title><h2>{title}</h2></Card.Title>
-      <Card.Text>
-       {details}
-      </Card.Text>
-      <Button className='py-1 rounded bg-primary text-white' variant="primary">Click to see Details</Button>
-    </Card.Body>
-  </Card>
+            <Card.Img variant="top" src={img}  className="card-img"/>
+            <Card.Body>
+              <Card.Title><h2>{title}</h2></Card.Title>
+              <Card.Text>
+              {details}
+              </Card.Text>
+              <Button className='py-1 rounded bg-primary text-white' variant="primary">Click to see Details</Button>
+            </Card.Body>
+          </Card>
           </Col>
             
         </div>

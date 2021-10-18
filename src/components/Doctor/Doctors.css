@@ -4,6 +4,13 @@
     padding: 10px;
 
 }
+
+.card_img{
+
+    width: 400px;
+
+}
+
 .card{
     padding:10px ;
     height: 30rem;
@@ -12,3 +19,14 @@
     background-color: rgb(253, 250, 250);
 
 }
+
+.card_latest{
+
+    padding:10px ;
+    height: 35rem;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(253, 250, 250);
+
+}
+
