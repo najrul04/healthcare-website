@@ -4,42 +4,42 @@
        "title":"Cancer Unit",
        "cost":"$50000",
        "img":"https://www.itij.com/sites/default/files/styles/hero_image_small/public/2020-03/hospital-ward-beds-full.jpg?itok=O8YBywBR",
-       "details":" Here this is the cancer unit of the hospital. Our main goal is to try and protect our patient as dearly as we can to help them having the days here as enjoyable as possible for them. Cancer patient doesn't only need the physical support but also mental support too. Here we try to make sure that they get both of them "
+       "details":" Here this is the cancer unit of the hospital. Our main goal is to try and protect our patient as dearly as we can to help them having the days here as enjoyable as possible for them. "
     },
     {
         "id":"2",
        "title":"Heart Unit",
        "cost":"$45000",
        "img":"https://media.defense.gov/2008/Apr/03/2000637130/-1/-1/0/080329-F-3148B-110.JPG",
-       "details":"Here our main goal is to help the patient with a lot of care and love. Heart is a sensitive organ of the body and we want to help our patient as better and fast as possible. One of most vital organ that pumps the blood to our body and important parts it is needed. We have the best heart surgeon to make sure to give the best treatment possible"
+       "details":"Here our main goal is to help the patient with a lot of care and love. Heart is a sensitive organ of the body and we want to help our patient as better and fast as possible."
     },
     {
         "id":"3",
        "title":"Burn Unit",
        "cost":"$40000",
        "img":"https://www.jarmilastukova.com/wp-content/uploads/2019/05/Burn-unit-in-Indira-Ghandi-childrens-hospital-in-Afghanistan-2019-03.jpg",
-       "details":"Burning of any part of the body can be very painful and in time to time it could get severe. lots of people die everyday due to burning cause. Here we try to provide the best service possible. The worst part of getting burned is to carry the scar. Here we try to make sure as much less scar to leave on the patients body."
+       "details":"Burning of any part of the body can be very painful and in time to time it could get severe. lots of people die everyday due to burning cause."
     },
     {
         "id":"4",
        "title":"Delivery Baby Unit",
        "cost":"$3800",
        "img":"https://cdnuploads.aa.com.tr/uploads/Contents/2021/06/24/thumbs_b_c_a8b971811529c4061424c96436cf2ce7.jpg?v=121852",
-       "details":"It is a pretty exciting moment for the fellow family and relatives to welcome a new family member in their family. Doctor had to play a vital role. A life being born is such a remarkable scene and moment for anyone and to make it special we make sure our patient and the doctor gets the best care possible throughout the whole process."
+       "details":"It is a pretty exciting moment for the fellow family and relatives to welcome a new family member in their family. Doctor had to play a vital role."
     },
     {
         "id":"5",
        "title":"Emergency Room",
        "cost":"$1000",
        "img":"https://upload.wikimedia.org/wikipedia/commons/a/a3/10530-banner-Lives625-6-14.jpg",
-       "details":"Emergency room is a place usually when people come with severe injury that needs immediate treatment. We have excellent doctors and nurses to be ready for any kind of problems at any time. It can be very intimidating because anything could happen so we keep the best doctors possible."
+       "details":"Emergency room is a place usually when people come with severe injury that needs immediate treatment. We have excellent doctors and nurses to be ready."
     },
     {
         "id":"6",
        "title":"Surgical Unit",
        "cost":"$30000",
        "img":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Cardiac_surgery_operating_room.jpg",
-       "details":"Surgeons are like the front people on the row who is like police. They fight directly with the problems. The patient feels more secured when the surgery is done by a proper experienced doctors. The police in the doctor area is surgical unit and they take care of the patients body and need the best way possible."
+       "details":"Surgeons are like the front people on the row who is like police. They fight directly with the problems. The patient feels more secured when the surgery is done by a proper experienced doctors."
     }
   ]
   
