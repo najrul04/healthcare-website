@@ -16,10 +16,10 @@ const Footer = () => {
         <div className="col-lg-2 col-md-6 mb-4 mb-lg-0">
           <h6 className="text-uppercase font-weight-bold mb-4 text-white">Treatment</h6>
           <ul className="list-unstyled mb-0">
-            <li className="mb-2"><a href="#" className="text-decoration-none text-white">For Women</a></li>
-            <li className="mb-2"><a href="#" className="text-decoration-none text-white">For Men</a></li>
-            <li className="mb-2"><a href="#" className="text-decoration-none text-white">Emergency</a></li>
-            <li className="mb-2"><a href="#" className="text-decoration-none text-white">Our Blog</a></li>
+            <li className="mb-2"><a  href="#" className="text-decoration-none text-white">For Women</a></li>
+            <li className="mb-2"><a  href="#" className="text-decoration-none text-white">For Men</a></li>
+            <li className="mb-2"><a  href="#" className="text-decoration-none text-white">Emergency</a></li>
+            <li className="mb-2"><a  href="#" className="text-decoration-none text-white">Our Blog</a></li>
           </ul>
         </div>
         <div className="col-lg-2 col-md-6 mb-4 mb-lg-0">
