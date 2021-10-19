@@ -27,7 +27,7 @@ const ServiceDetails = () => {
                         <p className="fw-bold fs-5 text-danger">Department: {service?.type}</p>
                         <p>{service?.description}</p>
                         <Link to="/appointment">
-                            <button className="btn btn-danger">Appoint Now <i class="fas fa-arrow-circle-right"></i></button>
+                            <button className="btn btn-danger">Appoint Now </button>
                         </Link>
                     </div>
                     <div className="col-lg-6 col-md-6 col-sm-12">

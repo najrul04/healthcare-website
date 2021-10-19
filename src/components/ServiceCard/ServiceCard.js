@@ -20,7 +20,7 @@ const ServiceCard = (props) => {
                 </div>
                 <div className="card-footer text-center">
                     <Link to={`/details/${id}`}>
-                        <button className="btn btn-primary m-2 w-100">See Details</button>
+                        <button className="btn btn-primary m-2 w-50">See Details</button>
                     </Link>
                 </div>
             </div>

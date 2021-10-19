@@ -5,9 +5,9 @@ const NotFound = () => {
     return (
         <div>
             <div className="text-center">
-                <img width="60%" src="https://alauddinali.com/wp-content/uploads/2020/07/podcast-banner-1060x561.jpg" alt="" /><br />
+                <img width="70%" src="https://c1.wallpaperflare.com/preview/251/931/705/not-found-404-error-file-not-found-404-file-not-found.jpg" alt="" /><br />
                 <Link to="/home">
-                    <button className="btn btn-danger btn-lg">Back to Home</button>
+                    <button className="btn btn-danger btn-lg my-3">Go Back</button>
                 </Link>
             </div>
         </div>

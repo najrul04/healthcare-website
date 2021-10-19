@@ -1,14 +1,14 @@
 .serviceCard{
     overflow: hidden;
-    border-bottom: 5px solid #c0392b;
-    border-right: 5px solid #c0392b;
+    border: 5px solid #aa98fd;
     transition: .4s;
+    cursor: pointer;
 }
 
 .serviceCard:hover{
-    border-bottom: 5px solid #27ae60;
-    border-right: 5px solid #27ae60;
-    box-shadow: 0 10px 20px #27ae60;
+    border-bottom: 5px solid #2756ae;
+    border-right: 5px solid #2756ae;
+    box-shadow: 0 10px 20px #2756ae;
 }
 
 .serviceCard img{
@@ -24,7 +24,6 @@
 }
 
 .type{
-    background-color: #c0392b;
     color: #fff;
     box-shadow: 0 5px 5px gray;
     padding: 10px;

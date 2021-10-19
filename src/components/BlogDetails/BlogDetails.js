@@ -17,7 +17,7 @@ const BlogDetails = () => {
             .then(data => setBlogs(data))
     }, [])
 
-    const blogData = blogs.find(blog => blog.id == id);
+    const blogData = blogs.find(blog => blog.id === id);
 
     return (
         <div>
