@@ -15,28 +15,28 @@ const About = () => {
                         <img width="100%" src={hospital} alt="" />
                     </div>
                     <div className="col-lg-6 col-md-6 col-sm-12">
-                        <p>WeCare Nursing Home & Diagnostic Centre has been setting standards since its inception in and regarded as one of the best hospitals out of Kolkata, West Bengal. WE CARE NURSING HOME & DIAGNOSTIC CENTRE is a 54 bedded multi-speciality nursing home & integrated medical centre based out of Kolkata serving the communities across Howrah and Hooghly district. It is a multi-speciality nursing home with experience in quality healthcare practices that integrate clinical and health care services through constant innovation and education. It is a multi-speciality nursing home with experience in quality healthcare practices that integrate clinical and health care services through constant innovation and education. It is a multi-speciality nursing home with experience in quality healthcare practices that integrate clinical and health care services through constant innovation and education.</p>
+                        <p className="fs-5">General hospitals may be academic health facilities or community-based entities. They are general in the sense that they admit all types of medical and surgical cases, and they concentrate on patients with acute illnesses needing relatively short-term care. Community general hospitals vary in their bed numbers. Each general hospital, however, has an organized medical staff, a professional staff of other health providers (such as nurses, technicians, dietitians, and physiotherapists), and basic diagnostic equipment. In addition to the essential services relating to patient care, and depending on size and location, a community general hospital may also have a pharmacy, a laboratory, sophisticated diagnostic services (such as radiology and angiography), physical therapy departments, an obstetrical unit (a nursery and a delivery room), operating rooms, recovery rooms, an outpatient department, and an emergency department. Smaller hospitals may diagnose and stabilize patients prior to transfer to facilities with specialty services.</p>
                     </div>
                 </div>
                 <h1 className="text-center mt-4">Hospitals Images</h1>
                 <div className="hospital-images row row-cols-lg-3 row-cols-md-2 row-cols-sm-1 py-4 g-5">
                     <div className="col-lg-4 col-md-2 col-sm-1">
-                        <img height="250px" width="100%" src="https://pr1.nicelocal.in/bjrWkcK0P3hbnbT2Jh35Lg/1120x700,q85/4px-BW84_n2aGZJPv2Q_uysuQlRKXWAtkzmuAfqDQISpDwZisV56-gHQqkOTJcLkNuPFD1AMyH9hiJWZPOWkLRd3WYnddhvEE9daYRG_8jNN4zJyONykUtJy-8Hjr0t-IK4P0JROGG5AC97LrCyRPy-oT4sCdEZ2i9yb1niP2abkuinY0bkPww" alt="" />
+                        <img height="250px" width="100%" src="https://f1.media.brightcove.com/8/864352215001/864352215001_5116799238001_160914-psy-jrv-yoi160060-thumb.jpg?pubId=864352215001&videoId=5083505435001" alt="" />
                     </div>
                     <div className="col-lg-4 col-md-2 col-sm-1">
-                        <img height="250px" width="100%" src="https://globalcarehospital.com/wp-content/uploads/2020/05/residence-rooms-1-1.jpg" alt="" />
+                        <img height="250px" width="100%" src="https://media.bizj.us/view/img/11060517/20180926tghhospiceopening-8239*1200xx6891-3876-158-0.jpg" alt="" />
                     </div>
                     <div className="col-lg-4 col-md-2 col-sm-1">
-                        <img height="250px" width="100%" src="https://globalcarehospital.com/wp-content/uploads/2020/05/residence-rooms-4.jpg" alt="" />
+                        <img height="250px" width="100%" src="https://c1.wallpaperflare.com/preview/224/10/460/hospital-ward-hospital-medical-room.jpg" alt="" />
                     </div>
                     <div className="col-lg-4 col-md-2 col-sm-1">
-                        <img height="250px" width="100%" src="https://m.gulf-times.com/Content/Upload/Editor/Image1_720192224428671746926.png" alt="" />
+                        <img height="250px" width="100%" src="https://i.cbc.ca/1.5890146.1611772012!/fileImage/httpImage/inside-toronto-general-hospital-s-covid-19-icu.jpg" alt="" />
                     </div>
                     <div className="col-lg-4 col-md-2 col-sm-1">
-                        <img height="250px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBq_rPM5S0PN2FRlxRBcvL7pX3bxLF2WZkgSKZEVXVLIk5xxFlwqKqkYtXN46zqZummU&usqp=CAU" alt="" />
+                        <img height="250px" width="100%" src="https://c1.wallpaperflare.com/preview/889/37/292/bed-room-clinic-chair.jpg" alt="" />
                     </div>
                     <div className="col-lg-4 col-md-2 col-sm-1">
-                        <img height="250px" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8FyLa1QLHOU7xU7ZkvCmsZtoWZJMr8vjd3w&usqp=CAU" alt="" />
+                        <img height="250px" width="100%" src="https://www.massgeneral.org/assets/MGH/images/cancer-center/community/waltham-staircase-1000x600.jpg" alt="" />
                     </div>
                 </div>
             </div>
