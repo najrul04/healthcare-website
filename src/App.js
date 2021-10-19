@@ -7,6 +7,8 @@ import ContactUs from './components/ContactUs/ContactUs';
 import NotFound from './components/NotFound/NotFound';
 import Footer from './components/Footer/Footer';
 import Services from './components/Services/Services';
+import Login from './components/Login/Login';
+import Register from './components/Register/Register';
 
 function App() {
   return (
@@ -45,6 +47,18 @@ function App() {
       <Route path='/contactUs'>
 
       <ContactUs></ContactUs>
+
+      </Route>
+
+      <Route path='/login'>
+
+      <Login></Login>
+
+      </Route>
+
+      <Route path='/register'>
+
+      <Register></Register>
 
       </Route>
 
