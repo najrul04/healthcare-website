@@ -76,16 +76,16 @@ const Signup = () => {
                             User sign up successfully! Now user can sign in.
                         </div>
                     }
-                    <h1 className="text-center my-3">Sign Up</h1>
+                    <h1 className="text-center my-3">Register</h1>
                     <form onSubmit={createUser}>
                         <input onBlur={(e) => setName(e.target.value)} type="text" placeholder="Name" /><br /><br />
                         <input onBlur={(e) => setEmail(e.target.value)} type="email" placeholder="Email" /><br /><br />
                         <input onBlur={(e) => setPassword(e.target.value)} type="password" placeholder="Password" /><br /><br />
-                        <Link to="/signin">Have you account?</Link><br />
-                        <button className="myBtn mt-3">Sign Up <i class="fas fa-arrow-alt-circle-right"></i></button>
+                        <Link to="/signin">Got An Account?</Link><br />
+                        <button className="btn btn-success mt-3">Sign Up</button>
                     </form>
                     <p className="mt-3 fw-bold" ___>______________________OR_________________________</p>
-                    <button onClick={signInGoogle} className="gBtn mt-2"><i class="fab fa-google"></i> Sign In With Google</button>
+                    <button onClick={signInGoogle} className="btn btn-dark mt-2">Sign In With Google</button>
                 </div>
             </div>
             <Footer />

@@ -40,11 +40,11 @@ const Appoinment = () => {
             <div className="appointment">
                 <div className="container">
                     <div className="appoinment-area">
-                        <h1 className="heading text-center text-light pt-2">Make an Appointment For Patient!</h1>
+                        <h1 className="heading text-center text-light pt-2">Appointment Form for the Patients</h1>
                         <div className="form-area">
                             <form onSubmit={handleInfo}>
-                                <input onBlur={(e) => setName(e.target.value)} type="text" placeholder="Patient Name" required /><br /><br />
-                                <input onBlur={(e) => setAge(e.target.value)} type="number" placeholder="Patient Age" required /><br /><br />
+                                <input onBlur={(e) => setName(e.target.value)} type="text" placeholder="Name" required /><br /><br />
+                                <input onBlur={(e) => setAge(e.target.value)} type="number" placeholder="Age" required /><br /><br />
                                 <select onBlur={(e) => setGender(e.target.value)}>
                                     <option value="Male">Male</option>
                                     <option value="Female">Female</option>
@@ -53,9 +53,9 @@ const Appoinment = () => {
                                 <input onBlur={(e) => setPhone(e.target.value)} type="number" placeholder="Phone Number" required /><br /><br />
                                 <input onBlur={(e) => setEmail(e.target.value)} type="email" placeholder="Email" required /><br /><br />
                                 <input onBlur={(e) => setAddress(e.target.value)} type="text" placeholder="Address" required /><br /><br />
-                                <button className="btn btn-success btn-sm me-3">Submit</button>
+                                <button className="btn btn-primary btn-sm me-3">Submit</button>
                                 <Link to="/">
-                                    <button className="btn btn-danger btn-sm">Cancel</button>
+                                    <button className="btn btn-warning btn-sm">Cancel</button>
                                 </Link>
                             </form>
                         </div>

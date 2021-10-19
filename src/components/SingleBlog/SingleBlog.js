@@ -14,7 +14,7 @@ const SingleBlog = (props) => {
                 </div>
                 <div className="col-lg-6 col-md-6 col-sm-6">
                     <h5>{name}</h5>
-                    <p>{description.slice(0, 70)}....</p>
+                    <p className='blogs_error'>{description}....</p>
                     <Link to={`/blog/${id}`}>
                         <button className="btn btn-outline-primary">Read More</button>
                     </Link>

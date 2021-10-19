@@ -56,15 +56,15 @@ const Signin = () => {
                             {error}
                         </div>
                     }
-                    <h1 className="text-center my-3">Sign In</h1>
+                    <h1 className="text-center my-3">Log In</h1>
                     <form onSubmit={handleSignIn}>
                         <input onBlur={(e) => setEmail(e.target.value)} type="email" placeholder="Email" /><br /><br />
                         <input onBlur={(e) => setPassword(e.target.value)} type="password" placeholder="Password" /><br /><br />
-                        <Link to="/signup">Haven't You Account?</Link><br />
-                        <button type="submit" className="myBtn mt-3">Sign In <i class="fas fa-arrow-alt-circle-right"></i></button>
+                        <Link to="/signup">Don't Have Any Account?</Link><br />
+                        <button type="submit" className=" btn btn-success mt-3">Sign In</button>
                     </form>
-                    <p className="mt-3 fw-bold" ___>______________________OR_________________________</p>
-                    <button onClick={signInGoogle} className="gBtn mt-2"><i class="fab fa-google"></i> Sign In With Google</button>
+                    <br />
+                    <button onClick={signInGoogle} className="btn btn-dark mt-2">Sign In With Google</button>
                 </div>
             </div>
             <Footer />

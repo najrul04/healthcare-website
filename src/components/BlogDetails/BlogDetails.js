@@ -12,7 +12,6 @@ const BlogDetails = () => {
     const [blogs, setBlogs] = useState([]);
 
     useEffect(() => {
-        // const url = 'https://raw.githubusercontent.com/MD-Mehedi-Hasan18111/health-care-data/main/blogs.json';
         fetch('Hospital.json')
             .then(res => res.json())
             .then(data => setBlogs(data))

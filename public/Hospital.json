@@ -35,4 +35,52 @@
          "image":"https://static.bangkokpost.com/media/content/20210707/c1_2144995_210707170149.jpg",
          "description":"According to the Centers for Disease Control and Prevention (CDC), heart disease is the leading cause of death in the United States. Around 1 in 4 deathsTrusted Source in the U.S. occur due to heart disease, and the condition affects all genders as well as all racial and ethnic groups.In this article, learn more about the types, causes, and symptoms of heart disease. This article also covers risk factors and treatment.Heart disease refers to any condition affecting the cardiovascular system. There are several different types of heart disease, and they affect the heart and blood vessels in different ways.It develops when the arteries that supply blood to the heart become clogged with plaque. This causes them to harden and narrow. Plaque contains cholesterol and other substances.As a result, the blood supply reduces, and the heart receives less oxygen and fewer nutrients. In time, the heart muscle weakens, and there is a risk of heart failure and arrhythmias.When plaque builds up in the arteries, it is called atherosclerosis. Plaque in the arteries can rupture from blockages and cause blood flow to stop, which can lead to a heart attack."
       }
+
+      ,
+      {
+         "id":7,
+         "names":"Dr. Melissa",
+         "images":"https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
+         "Specialities":"Heart Surgeon."
+      }
+
+      ,
+      {
+         "id":8,
+         "names":"Dr. Phillip",
+         "images":"https://media.istockphoto.com/photos/team-of-doctors-and-nurses-in-hospital-picture-id1307543618?b=1&k=20&m=1307543618&s=170667a&w=0&h=hXpYmNYXnhdD36C-8taPQvdpM9Oj-woEdge8nvPrsZY=",
+         "Specialities":"Lung Cancer Specialist"
+      }
+
+      ,
+      {
+         "id":9,
+         "names":"Dr. Mona",
+         "images":"https://media.istockphoto.com/photos/doctor-holding-digital-tablet-at-meeting-room-picture-id1189304032?k=20&m=1189304032&s=612x612&w=0&h=ovTNnR0JX2cRZkzMBed9exRO_PamZLlysLDFkXesr4Q=",
+         "Specialities":"Pathology Department Head"
+      }
+
+      ,
+      {
+         "id":10,
+         "names":"Dr. Ashley Cole",
+         "images":"https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA=",
+         "Specialities":"Neurologist"
+      }
+
+      ,
+      {
+         "id":11,
+         "names":"Dr. Walter White",
+         "images":"https://st.depositphotos.com/1743476/1266/i/600/depositphotos_12660351-stock-photo-satisfied-smiling-mature-doctor.jpg",
+         "Specialities":"Drugs and Medicine Specialist"
+      }
+
+      ,
+      {
+         "id":12,
+         "names":"Dr. Walt Whitman",
+         "images":"https://media.istockphoto.com/photos/happy-healthcare-practitioner-picture-id138205019?k=20&m=138205019&s=612x612&w=0&h=KpsSMVsplkOqTnAJmOye4y6DcciVYIBe5dYDgYXLVW4=",
+         "Specialities":"Cancer Specialist"
+      }
    ]

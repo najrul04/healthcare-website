@@ -3,7 +3,9 @@
     border-radius: 15px;
     padding: 20px;
     margin: 20px 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+}
+.blogs_error{
+
+    overflow: hidden;
+
 }

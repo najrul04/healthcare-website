@@ -1,5 +1,5 @@
 .footer{
-    background-color: #2C3E50;
+    background-color: #897AB9;
     color: #fff;
     padding: 40px;
 }
@@ -18,9 +18,4 @@
 
 .links a:hover{
     color: #AC0000;
-}
-
-.social-links i{
-    font-size: 28px;
-    margin: 0 10px;
 }

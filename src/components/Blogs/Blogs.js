@@ -8,7 +8,6 @@ const Blogs = () => {
     const [blogs, setBlogs] = useState([]);
 
     useEffect(() => {
-        // const url = 'https://raw.githubusercontent.com/MD-Mehedi-Hasan18111/health-care-data/main/blogs.json';
         fetch('Hospital.json')
             .then(res => res.json())
             .then(data => setBlogs(data))
@@ -18,7 +17,7 @@ const Blogs = () => {
         <div>
             <NavBar />
             <div className="container">
-                <h2 className="heading my-3 text-center">Our <span>Health Care</span> Blogs</h2>
+                <h2 className="heading my-3 text-center">Blogs</h2>
                 <div className="row row-cols-lg-2 row-cols-md-2 row-cols-sm-1">
                     {
                         blogs?.map(blog => <SingleBlog key={blog.id} blog={blog} />)

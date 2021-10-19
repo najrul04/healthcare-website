@@ -12,10 +12,10 @@ const Doctors = () => {
         <div>
             <NavBar />
             <div className="container">
-                <h2 className="heading text-center my-3">Specialist <span>Doctors</span> List</h2>
+                <h2 className="heading text-center my-3 text-primary fs-1">Specialist Doctors</h2>
                 <div className="row row-cols-lg-3 row-cols-md-2 row-cols-sm-1 g-5 p-4">
                     {
-                        doctors?.map(doctor => <DoctorCard key={doctor.id} doctor={doctor} />)
+                        doctors?.slice(6).map(doctor => <DoctorCard key={doctor.id} doctor={doctor} />)
                     }
                 </div>
             </div>
