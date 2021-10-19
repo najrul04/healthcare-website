@@ -13,7 +13,7 @@ const ServiceDetails = () => {
 
     // console.log(services);
 
-    const service = services.find(s => s.id == id);
+    const service = services.find(s => s.id === id);
 
     // console.log(service);
 

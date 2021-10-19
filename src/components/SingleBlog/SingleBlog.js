@@ -4,7 +4,7 @@ import './SingleBlog.css';
 
 const SingleBlog = (props) => {
 
-    const { id, image, name, description } = props.blog;
+    const { id, image, name  } = props.blog;
 
     return (
         <div>
@@ -14,7 +14,7 @@ const SingleBlog = (props) => {
                 </div>
                 <div className="col-lg-6 col-md-6 col-sm-6">
                     <h5>{name}</h5>
-                    <p className='blogs_error'>{description}....</p>
+                    <p className='blogs_error'>{}Click Below</p>
                     <Link to={`/blog/${id}`}>
                         <button className="btn btn-outline-primary">Read More</button>
                     </Link>
