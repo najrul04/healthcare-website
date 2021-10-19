@@ -1,0 +1,26 @@
+.footer{
+    background-color: #2C3E50;
+    color: #fff;
+    padding: 40px;
+}
+
+.footer h5{
+    text-align: left;
+}
+
+.links a{
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    color: #fff;
+    margin: 4px 0;
+}
+
+.links a:hover{
+    color: #AC0000;
+}
+
+.social-links i{
+    font-size: 28px;
+    margin: 0 10px;
+}

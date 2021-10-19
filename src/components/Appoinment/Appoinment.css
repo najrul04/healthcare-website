@@ -1,0 +1,43 @@
+.appointment{
+    background-color: #000;
+    height: auto;
+    padding: 20px 0;
+}
+
+.form-area{
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 50%;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.form-area input{
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+}
+
+.form-area input:focus{
+    outline: none;
+}
+
+.form-area select{
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #fff;
+    color: blue;
+}
+
+@media only screen and (max-width: 414px) {
+    .form-area{
+        width: 100%;
+    }
+}

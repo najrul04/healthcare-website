@@ -1,0 +1,8 @@
+.hospital-images img{
+    border-radius: 15px;
+    transition: .6s;
+}
+
+.hospital-images img:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,64 @@
+.auth-area{
+    /* background-image: url('../../images/auth-bg.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.sign-form{
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0 70px 0;
+}
+
+.sign-form input{
+    width: 100%;
+    height: 40px;
+    text-indent: 10px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+
+.sign-form input:focus{
+    outline: none;
+}
+
+.sign-form .myBtn{
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 10px 40px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+}
+
+.sign-form a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.gBtn{
+    border: none;
+    background-color: #000;
+    color: #fff;
+    padding: 10px 40px;
+    border-radius: 15px;
+    font-size: 18px
+}
+
+.fa-google {
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+  }
+
+  @media only screen and (max-width: 414px) {
+      .sign-form{
+          width: 100%;
+      }
+  }

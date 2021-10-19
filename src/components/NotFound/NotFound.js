@@ -1,13 +1,15 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const NotFound = () => {
     return (
         <div>
-            
-            <h1 className="text-center my-2 display-1">404!</h1>
-            <h1 className="text-center my-1 display-6">NOT FOUND</h1>
-            <h1 className="text-center mt-4 mb-5 fs-3">We are sorry but the page you were looking for is missing!</h1>
-
+            <div className="text-center">
+                <img width="60%" src="https://alauddinali.com/wp-content/uploads/2020/07/podcast-banner-1060x561.jpg" alt="" /><br />
+                <Link to="/home">
+                    <button className="btn btn-danger btn-lg">Back to Home</button>
+                </Link>
+            </div>
         </div>
     );
 };
