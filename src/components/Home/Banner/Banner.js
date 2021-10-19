@@ -12,11 +12,11 @@ const Banner = () => {
                 <Row className="d-flex align-items-center">
                     <Col lg={6} md={6} xs={12} className="text-center">
                         <img width="140px" src={logo} alt="" />
-                        <h2>Welcome To<br /> We Care Hospital Ltd.</h2>
-                        <p><span className="fw-bold fs-5">WE CARE</span> is a simple acronym to guide how we interact with patients and one another. It's a reminder for us all as Sansum Clinic employees, to commit.</p>
+                        <h2>General Hospital</h2>
+                        <p><span className="fw-bold fs-5">General hospital</span> is a place to make sre you get the right kind of treatment when needed.</p>
                         <div className="text-center">
                             <Link to='/appointment'>
-                                <button className="btn btn-danger btn-lg">Appoint Now <i class="fas fa-arrow-circle-right"></i></button>
+                                <button className="btn btn-danger btn-lg">Appoint Now</button>
                             </Link>
                         </div>
                     </Col>
