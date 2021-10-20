@@ -4,8 +4,6 @@ import './ServiceCard.css';
 
 const ServiceCard = (props) => {
 
-    // console.log(props.service);
-
     const { id, image, name, type } = props.service;
 
     return (

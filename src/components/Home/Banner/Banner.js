@@ -16,7 +16,7 @@ const Banner = () => {
                         <p><span className="fw-bold fs-5">General hospital</span> is a place to make sre you get the right kind of treatment when needed.</p>
                         <div className="text-center">
                             <Link to='/appointment'>
-                                <button className="btn btn-danger btn-lg">Appoint Now</button>
+                                <button className="btn btn-primary btn-lg">Appoint Now</button>
                             </Link>
                         </div>
                     </Col>

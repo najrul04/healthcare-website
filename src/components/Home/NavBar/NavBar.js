@@ -34,10 +34,10 @@ const NavBar = () => {
                         navbarScroll
                     >
                         <Nav.Link><Link to="/home">Home</Link></Nav.Link>
-                        <Nav.Link><Link to="/about">About</Link></Nav.Link>
                         <Nav.Link><Link to="/services">Service</Link></Nav.Link>
                         <Nav.Link><Link to="/doctors">Doctors</Link></Nav.Link>
                         <Nav.Link><Link to="/blogs">Blogs</Link></Nav.Link>
+                        <Nav.Link><Link to="/about">About Us</Link></Nav.Link>
                     </Nav>
                     <div className="text-center d-flex align-items-center">
                         <button onClick={toSignup} className="btn btn-success btn-sm mx-4">Register</button>

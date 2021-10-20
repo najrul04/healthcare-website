@@ -11,11 +11,7 @@ const ServiceDetails = () => {
 
     const [services, setServices] = useService();
 
-    // console.log(services);
-
     const service = services.find(s => s.id === id);
-
-    // console.log(service);
 
     return (
         <div>
