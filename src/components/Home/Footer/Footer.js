@@ -40,3 +40,18 @@ const Footer = () => {
 };
 
 export default Footer;
+
+const  cart  = [ 
+    { name: 'x', quantity: 1 },
+    { name : 'y' , quantity : 2 }  
+   ]
+const newCart = [ cart , {name: 'z' , quantity : 3} ]
+console.log(newCart);
+
+const {a, b} = {x:2, y:3}
+
+function doSomething(first, second){
+	console.log(second);
+}
+
+doSomething(23);
