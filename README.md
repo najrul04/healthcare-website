@@ -19,3 +19,9 @@ This website is created to let people know about the hospital and let them know 
 * Easy to Access to our services.
 
 * A minimum overview of our field of work.
+
+* Implementation of firebase system to handle log in, log out and register system.
+
+* Details will be shown after clicking on card and you have to log in or register to see.
+
+* Clients can be benefited by getting lots of information.
