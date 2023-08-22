@@ -1,86 +1,80 @@
- [
-      {
-         "id":1,
-         "name":"Best X Ray Machine To Find Out the Problems as Fast as Possible",
-         "image":"https://st.depositphotos.com/1003098/1836/i/600/depositphotos_18368563-stock-photo-radiologists-with-patient-in-x.jpg",
-         "description":"X-ray machines are used in health care for visualising bone structures, during surgeries (especially orthopedic) to assist surgeons in reattaching broken bones with screws or structural plates, assisting cardiologists in locating blocked arteries and guiding stent placements or performing angioplasties and for other dense tissues such as tumours. Non-medicinal applications include security and material analysis.X-ray machines are used to screen objects non-invasively. Luggage at airports and student baggage at some schools are examined for possible weapons, including bombs. Prices of these Luggage X-rays vary from $50,000 to $300,000. The main parts of an X-ray Baggage Inspection System are the generator used to generate x-rays, the detector to detect radiation after passing through the baggage, signal processor unit (usually a PC) to process the incoming signal from the detector, and a conveyor system for moving baggage into the system. Portable pulsed X-ray Battery Powered X-ray Generator used in Security as shown in the figure provides EOD responders safer analysis of any possible target hazard."
-      },
-      {
-         "id":2,
-         "name":"Best Cancer Treatment You Could Ask For",
-         "image":"https://tamc.co.il/app/news/news-3960-1599516762.jpg",
-         "description":"There are many types of cancer treatment. The types of treatment that you receive will depend on the type of cancer you have and how advanced it is.Some people with cancer will have only one treatment. But most people have a combination of treatments, such as surgery with chemotherapy and/or radiation therapy. When you need treatment for cancer, you have a lot to learn and think about. It is normal to feel overwhelmed and confused. But, talking with your doctor and learning about the types of treatment you may have can help you feel more in control. Our Questions to Ask Your Doctor About Treatment may help."
-      },
-      {
-         "id":3,
-         "name":"Eye Treatment & Operation That Has The Best Success or Gurantee",
-         "image":"https://www.prairieeyecenter.com/wp-content/uploads/woman-eye-surgery.jpg",
-         "description":"Prosthetic eyes are a very common treatment option for someone who has lost an eye. People of all ages and genders are fitted for prosthetic eyes after they have an eye (or in some cases, both eyes) removed due to a traumatic eye injury, illness, or eye or facial malformation.The purpose of a prosthetic eye is to create a balanced facial appearance and increase comfort in the eye socket where the eye is missing.People have been making and wearing prosthetic eyes for millennia. Early prosthetic eyes were made of clay that was painted and attached to a piece of cloth. Many centuries later, people began making spherical prosthetic eyes from glass.Today, prosthetic eyes are no longer glass spheres. Instead, a prosthetic eye includes a porous round implant that’s inserted into the eye socket and covered with eye tissue called conjunctiva."
-      },
-      {
-         "id":4,
-         "name":"Best Ever Lungs Treatment & Best Services",
-         "image":"https://www.narayanahealth.org/blog/wp-content/uploads/2018/04/shutterstock_203186941.jpg",
-         "description":"Lung cancer has a poor prognosis; over half of people diagnosed with lung cancer die within one year of diagnosis and the 5-year survival is less than 18%. Non-small cell lung cancer (NSCLC) accounts for the majority of all lung cancer cases. Risk factors for developing NSCLC have been identified, with cigarette smoking being a major factor along with other environmental and genetic risk factors. Depending on the staging of lung cancer, patients are eligible for certain treatments ranging from surgery to radiation to chemotherapy as well as targeted therapy. With the advancement of genetics and biomarkers testing, specific mutations have been identified to better target treatment for individual patients. This review discusses current treatments including surgery, chemotherapy, radiotherapy, and immunotherapy as well as how biomarker testing has helped improve survival in patients with NSCLC."
-      },
-      {
-         "id":5,
-         "name":"Covid 19 Vaccines & Other Information",
-         "image":"https://d2v9ipibika81v.cloudfront.net/uploads/sites/247/COVAX.jpg",
-         "description":"Equitable access to safe and effective vaccines is critical to ending the COVID-19 pandemic, so it is hugely encouraging to see so many vaccines proving and going into development. WHO is working tirelessly with partners to develop, manufacture and deploy safe and effective vaccines.Safe and effective vaccines are a game-changing tool: but for the foreseeable future we must continue wearing masks, cleaning our hands, ensuring good ventilation indoors, physically distancing and avoiding crowds.Being vaccinated does not mean that we can throw caution to the wind and put ourselves and others at risk, particularly because research is still ongoing into how much vaccines protect not only against disease but also against infection and transmission.See WHO’s landscape of COVID-19 vaccine candidates for the latest information on vaccines in clinical and pre-clinical development, generally updated twice a week. WHO’s COVID-19 dashboard, updated daily, also features the number of vaccine doses administered globally, with more detail provided on the dedicated COVID-19 vaccination dashboard. At a regional level, there is an AFRO COVID-19 vaccines dashboard and a PAHO COVID-19 vaccines deliveries dashboard.  "
-      },
-      {
-         "id":6,
-         "name":"Heart Disease & What Is about it, What is needed to be done?",
-         "image":"https://static.bangkokpost.com/media/content/20210707/c1_2144995_210707170149.jpg",
-         "description":"According to the Centers for Disease Control and Prevention (CDC), heart disease is the leading cause of death in the United States. Around 1 in 4 deathsTrusted Source in the U.S. occur due to heart disease, and the condition affects all genders as well as all racial and ethnic groups.In this article, learn more about the types, causes, and symptoms of heart disease. This article also covers risk factors and treatment.Heart disease refers to any condition affecting the cardiovascular system. There are several different types of heart disease, and they affect the heart and blood vessels in different ways.It develops when the arteries that supply blood to the heart become clogged with plaque. This causes them to harden and narrow. Plaque contains cholesterol and other substances.As a result, the blood supply reduces, and the heart receives less oxygen and fewer nutrients. In time, the heart muscle weakens, and there is a risk of heart failure and arrhythmias.When plaque builds up in the arteries, it is called atherosclerosis. Plaque in the arteries can rupture from blockages and cause blood flow to stop, which can lead to a heart attack."
-      }
+[
+  {
+    "id": 1,
+    "name": "Best X Ray Machine To Find Out the Problems as Fast as Possible",
+    "image": "https://st.depositphotos.com/1003098/1836/i/600/depositphotos_18368563-stock-photo-radiologists-with-patient-in-x.jpg",
+    "description": "X-ray machines are used in health care for visualising bone structures, during surgeries (especially orthopedic) to assist surgeons in reattaching broken bones with screws or structural plates, assisting cardiologists in locating blocked arteries and guiding stent placements or performing angioplasties and for other dense tissues such as tumours. Non-medicinal applications include security and material analysis.X-ray machines are used to screen objects non-invasively. Luggage at airports and student baggage at some schools are examined for possible weapons, including bombs. Prices of these Luggage X-rays vary from $50,000 to $300,000. The main parts of an X-ray Baggage Inspection System are the generator used to generate x-rays, the detector to detect radiation after passing through the baggage, signal processor unit (usually a PC) to process the incoming signal from the detector, and a conveyor system for moving baggage into the system. Portable pulsed X-ray Battery Powered X-ray Generator used in Security as shown in the figure provides EOD responders safer analysis of any possible target hazard."
+  },
+  {
+    "id": 2,
+    "name": "Best Cancer Treatment You Could Ask For",
+    "image": "https://images.clinicspots.com/piDTZcPJF94bIDS3wFYrPi4hrpt7yxgJxgmTXbre.png",
+    "description": "There are many types of cancer treatment. The types of treatment that you receive will depend on the type of cancer you have and how advanced it is.Some people with cancer will have only one treatment. But most people have a combination of treatments, such as surgery with chemotherapy and/or radiation therapy. When you need treatment for cancer, you have a lot to learn and think about. It is normal to feel overwhelmed and confused. But, talking with your doctor and learning about the types of treatment you may have can help you feel more in control. Our Questions to Ask Your Doctor About Treatment may help."
+  },
+  {
+    "id": 3,
+    "name": "Eye Treatment & Operation That Has The Best Success or Gurantee",
+    "image": "https://my.clevelandclinic.org/-/scassets/images/org/care-pages/eye/eye-cancer-treatment-feature.jpg",
+    "description": "Prosthetic eyes are a very common treatment option for someone who has lost an eye. People of all ages and genders are fitted for prosthetic eyes after they have an eye (or in some cases, both eyes) removed due to a traumatic eye injury, illness, or eye or facial malformation.The purpose of a prosthetic eye is to create a balanced facial appearance and increase comfort in the eye socket where the eye is missing.People have been making and wearing prosthetic eyes for millennia. Early prosthetic eyes were made of clay that was painted and attached to a piece of cloth. Many centuries later, people began making spherical prosthetic eyes from glass.Today, prosthetic eyes are no longer glass spheres. Instead, a prosthetic eye includes a porous round implant that’s inserted into the eye socket and covered with eye tissue called conjunctiva."
+  },
+  {
+    "id": 4,
+    "name": "Best Ever Lungs Treatment & Best Services",
+    "image": "https://www.narayanahealth.org/blog/wp-content/uploads/2018/04/shutterstock_203186941.jpg",
+    "description": "Lung cancer has a poor prognosis; over half of people diagnosed with lung cancer die within one year of diagnosis and the 5-year survival is less than 18%. Non-small cell lung cancer (NSCLC) accounts for the majority of all lung cancer cases. Risk factors for developing NSCLC have been identified, with cigarette smoking being a major factor along with other environmental and genetic risk factors. Depending on the staging of lung cancer, patients are eligible for certain treatments ranging from surgery to radiation to chemotherapy as well as targeted therapy. With the advancement of genetics and biomarkers testing, specific mutations have been identified to better target treatment for individual patients. This review discusses current treatments including surgery, chemotherapy, radiotherapy, and immunotherapy as well as how biomarker testing has helped improve survival in patients with NSCLC."
+  },
+  {
+    "id": 5,
+    "name": "Covid 19 Vaccines & Other Information",
+    "image": "https://d2v9ipibika81v.cloudfront.net/uploads/sites/247/COVAX.jpg",
+    "description": "Equitable access to safe and effective vaccines is critical to ending the COVID-19 pandemic, so it is hugely encouraging to see so many vaccines proving and going into development. WHO is working tirelessly with partners to develop, manufacture and deploy safe and effective vaccines.Safe and effective vaccines are a game-changing tool: but for the foreseeable future we must continue wearing masks, cleaning our hands, ensuring good ventilation indoors, physically distancing and avoiding crowds.Being vaccinated does not mean that we can throw caution to the wind and put ourselves and others at risk, particularly because research is still ongoing into how much vaccines protect not only against disease but also against infection and transmission.See WHO’s landscape of COVID-19 vaccine candidates for the latest information on vaccines in clinical and pre-clinical development, generally updated twice a week. WHO’s COVID-19 dashboard, updated daily, also features the number of vaccine doses administered globally, with more detail provided on the dedicated COVID-19 vaccination dashboard. At a regional level, there is an AFRO COVID-19 vaccines dashboard and a PAHO COVID-19 vaccines deliveries dashboard.  "
+  },
+  {
+    "id": 6,
+    "name": "Heart Disease & What Is about it, What is needed to be done?",
+    "image": "https://static.bangkokpost.com/media/content/20210707/c1_2144995_210707170149.jpg",
+    "description": "According to the Centers for Disease Control and Prevention (CDC), heart disease is the leading cause of death in the United States. Around 1 in 4 deathsTrusted Source in the U.S. occur due to heart disease, and the condition affects all genders as well as all racial and ethnic groups.In this article, learn more about the types, causes, and symptoms of heart disease. This article also covers risk factors and treatment.Heart disease refers to any condition affecting the cardiovascular system. There are several different types of heart disease, and they affect the heart and blood vessels in different ways.It develops when the arteries that supply blood to the heart become clogged with plaque. This causes them to harden and narrow. Plaque contains cholesterol and other substances.As a result, the blood supply reduces, and the heart receives less oxygen and fewer nutrients. In time, the heart muscle weakens, and there is a risk of heart failure and arrhythmias.When plaque builds up in the arteries, it is called atherosclerosis. Plaque in the arteries can rupture from blockages and cause blood flow to stop, which can lead to a heart attack."
+  },
 
-      ,
-      {
-         "id":7,
-         "names":"Dr. Melissa",
-         "images":"https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
-         "Specialities":"Heart Surgeon."
-      }
+  {
+    "id": 7,
+    "names": "Dr. Melissa",
+    "images": "https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
+    "Specialities": "Heart Surgeon."
+  },
 
-      ,
-      {
-         "id":8,
-         "names":"Dr. Phillip",
-         "images":"https://media.istockphoto.com/photos/team-of-doctors-and-nurses-in-hospital-picture-id1307543618?b=1&k=20&m=1307543618&s=170667a&w=0&h=hXpYmNYXnhdD36C-8taPQvdpM9Oj-woEdge8nvPrsZY=",
-         "Specialities":"Lung Cancer Specialist"
-      }
+  {
+    "id": 8,
+    "names": "Dr. Phillip",
+    "images": "https://media.istockphoto.com/photos/team-of-doctors-and-nurses-in-hospital-picture-id1307543618?b=1&k=20&m=1307543618&s=170667a&w=0&h=hXpYmNYXnhdD36C-8taPQvdpM9Oj-woEdge8nvPrsZY=",
+    "Specialities": "Lung Cancer Specialist"
+  },
 
-      ,
-      {
-         "id":9,
-         "names":"Dr. Mona",
-         "images":"https://media.istockphoto.com/photos/doctor-holding-digital-tablet-at-meeting-room-picture-id1189304032?k=20&m=1189304032&s=612x612&w=0&h=ovTNnR0JX2cRZkzMBed9exRO_PamZLlysLDFkXesr4Q=",
-         "Specialities":"Pathology Department Head"
-      }
+  {
+    "id": 9,
+    "names": "Dr. Mona",
+    "images": "https://media.istockphoto.com/photos/doctor-holding-digital-tablet-at-meeting-room-picture-id1189304032?k=20&m=1189304032&s=612x612&w=0&h=ovTNnR0JX2cRZkzMBed9exRO_PamZLlysLDFkXesr4Q=",
+    "Specialities": "Pathology Department Head"
+  },
 
-      ,
-      {
-         "id":10,
-         "names":"Dr. Ashley Cole",
-         "images":"https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA=",
-         "Specialities":"Neurologist"
-      }
+  {
+    "id": 10,
+    "names": "Dr. Ashley Cole",
+    "images": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA=",
+    "Specialities": "Neurologist"
+  },
 
-      ,
-      {
-         "id":11,
-         "names":"Dr. Walter White",
-         "images":"https://st.depositphotos.com/1743476/1266/i/600/depositphotos_12660351-stock-photo-satisfied-smiling-mature-doctor.jpg",
-         "Specialities":"Drugs and Medicine Specialist"
-      }
+  {
+    "id": 11,
+    "names": "Dr. Walter White",
+    "images": "https://st.depositphotos.com/1743476/1266/i/600/depositphotos_12660351-stock-photo-satisfied-smiling-mature-doctor.jpg",
+    "Specialities": "Drugs and Medicine Specialist"
+  },
 
-      ,
-      {
-         "id":12,
-         "names":"Dr. Walt Whitman",
-         "images":"https://media.istockphoto.com/photos/happy-healthcare-practitioner-picture-id138205019?k=20&m=138205019&s=612x612&w=0&h=KpsSMVsplkOqTnAJmOye4y6DcciVYIBe5dYDgYXLVW4=",
-         "Specialities":"Cancer Specialist"
-      }
-   ]
+  {
+    "id": 12,
+    "names": "Dr. Walt Whitman",
+    "images": "https://media.istockphoto.com/photos/happy-healthcare-practitioner-picture-id138205019?k=20&m=138205019&s=612x612&w=0&h=KpsSMVsplkOqTnAJmOye4y6DcciVYIBe5dYDgYXLVW4=",
+    "Specialities": "Cancer Specialist"
+  }
+]
